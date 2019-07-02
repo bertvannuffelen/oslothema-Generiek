@@ -1,0 +1,19 @@
+{
+  "name": "generiek-basis",
+  "type": "ap",
+  "eap": "OSLO-Generiek-Basis-AP.eap",
+  "diagram": "OSLO-Generiek-Basis",
+  "template": "generiek-basis-ap.j2",
+  "title": "Generiek Basis",
+  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/Standaard",
+  "publication-date": "04-10-2018",
+  "license" : "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "Generiek",
+  "site": "site-skeleton",
+  "feedbackurl": "https://github.com/Informatievlaanderen/OSLO-Discussion/issues",
+  "standaardregisterurl": "",
+  "dependencies": [
+      ]
+  
+}
