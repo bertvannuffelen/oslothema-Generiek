@@ -1,4 +1,4 @@
-{
+[{
   "name": "generiek-basis",
   "type": "ap",
   "eap": "OSLO-Generiek-Basis-AP.eap",
@@ -16,4 +16,4 @@
   "dependencies": [
       ]
   
-}
+}]

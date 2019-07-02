@@ -1,4 +1,4 @@
-{
+[{
   "name": "generiek",
   "type": "voc",
   "eap": "OSLO-Generiek-VOC.eap",
@@ -14,4 +14,4 @@
   "standaardregisterurl": "",
   "dependencies": [
       ]
-}
+}]
